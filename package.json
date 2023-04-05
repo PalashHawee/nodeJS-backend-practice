@@ -1,0 +1,23 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "Learning Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PalashHawee/nodeJS-backend-practice.git"
+  },
+  "keywords": [
+    "node.js",
+    "backend"
+  ],
+  "author": "Palash Hawee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PalashHawee/nodeJS-backend-practice/issues"
+  },
+  "homepage": "https://github.com/PalashHawee/nodeJS-backend-practice#readme"
+}
